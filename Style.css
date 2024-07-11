@@ -1,0 +1,43 @@
+*{
+    background-color:rgb(13, 191, 60) ;
+}
+
+form{
+    margin: 5%;
+    border: 2px solid rgb(13, 191, 60);
+    padding: 1% 1% 2% 2%;
+    width: 23%;
+    background-color: aliceblue;
+    border-radius: 10px;
+}
+#in{
+    width: 50%;
+    background-color: aliceblue;
+}
+#button{
+    border-radius: 25px;
+    padding: 3px 20px;
+    background-color: rgb(52, 133, 203);
+}
+button{
+    border-radius: 25px;
+    background-color: aliceblue;
+    padding: 2px 8px;
+}
+div{
+    background-color: aliceblue;
+}
+h2, p,ol,li,i{
+    background-color: aliceblue;
+}
+h2{
+    argin-block-start: 0.83em;
+    margin-block-end: 0em;
+}
+p{
+    margin-block-start: 0.3em;
+}
+li{
+    line-height: 25px;
+}
+
